@@ -1,5 +1,5 @@
 ## Hey, I'm Ben. 
-I live in Los Angeles. I like guitar, good food, racing, and coding.
+I live in Los Angeles and have a bechalors in Computer Science from the University of Colorado, Boulder. I like guitar, good food, racing, and coding.
 
 ### Get In Touch
 <a href="https://www.linkedin.com/in/benjaminwedeen540//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
