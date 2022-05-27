@@ -12,4 +12,5 @@ I like coding.
 * <a href="https://github.com/CUBigDataClass/Collatz">Collatz</a> - Travel Recommendations Tool
 * <a href="https://github.com/Larjun/Advanced-Spotify-Search">Spotify Advanced Search</a> - Tool for generating songs based on specfic criteria
 * <a href="https://github.com/BWedeen/COVID-Simulator">Covid Simulator</a> - Simulates the spread of COVID in a small area
+* 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BWedeen&show_icons=true&theme=dark)
