@@ -13,4 +13,4 @@ I like coding.
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BWedeen&show_icons=true&theme=dark)
 
 ### Get In Touch
-<a href="https://www.linkedin.com/in/benjaminwedeen540//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/BWedeen"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/benjaminwedeen540//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="benwedeen.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
