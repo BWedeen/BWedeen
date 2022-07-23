@@ -10,9 +10,9 @@ I like coding.
 <a href="https://www.linkedin.com/in/benjaminwedeen540//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ### My Favorite Repos
-* <a href="https://github.com/BWedeen/Crypto-Pub">Crypto Pub</a> - Cryptocurrency tracking tool
+* <a href="https://github.com/BWedeen/Crypto-Pub">Crypto Pub</a> - Fully responsive cryptocurrency tracking tool
 * <a href="https://github.com/BWedeen/Portfolio">Developer Portfolio</a> - The code for my developer portfolio 
-* <a href="https://github.com/CUBigDataClass/Collatz">Collatz</a> - Travel recommendations tool
+* <a href="https://github.com/CUBigDataClass/Collatz">Collatz</a> - Responsive web app for travel recommendations
 * <a href="https://github.com/Larjun/Advanced-Spotify-Search">Spotify Advanced Search</a> - Web app for generating songs and playlists based on extremely specfic criteria
 
 
