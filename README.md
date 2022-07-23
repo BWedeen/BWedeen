@@ -10,8 +10,9 @@ I like coding.
 
 ### My Favorite Repos
 * <a href="https://github.com/BWedeen/Crypto-Pub">Crypto Pub</a> - Cryptocurrency tracking tool
+* <a href="https://github.com/BWedeen/Portfolio">Developer Portfolio</a> - The code for my developer portfolio 
 * <a href="https://github.com/CUBigDataClass/Collatz">Collatz</a> - Travel Recommendations Tool
 * <a href="https://github.com/Larjun/Advanced-Spotify-Search">Spotify Advanced Search</a> - Tool for generating songs based on specfic criteria
-* <a href="https://github.com/BWedeen/Portfolio">Developer Portfolio</a> - The code for my developer portfolio 
+
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BWedeen&show_icons=true&theme=dark)
