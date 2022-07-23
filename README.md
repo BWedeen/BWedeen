@@ -9,9 +9,9 @@ I like coding.
 <a href="https://www.linkedin.com/in/benjaminwedeen540//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://benwedeen.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
 ### My Favorite Repos
+* <a href="https://github.com/BWedeen/Crypto-Pub">Crypto Pub</a> - Cryptocurrency tracking tool
 * <a href="https://github.com/CUBigDataClass/Collatz">Collatz</a> - Travel Recommendations Tool
 * <a href="https://github.com/Larjun/Advanced-Spotify-Search">Spotify Advanced Search</a> - Tool for generating songs based on specfic criteria
-* <a href="https://github.com/BWedeen/Portfolio">Developer Portfolio</a> - The code behind my developer portfolio 
-* <a href="https://github.com/BWedeen/COVID-Simulator">Covid Simulator</a> - Simulates the spread of COVID in a small area
+* <a href="https://github.com/BWedeen/Portfolio">Developer Portfolio</a> - The code for my developer portfolio 
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BWedeen&show_icons=true&theme=dark)
