@@ -6,7 +6,8 @@ I like coding.
 ...and many others
 
 ### Get In Touch
-<a href="https://www.linkedin.com/in/benjaminwedeen540//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://benwedeen.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://benwedeen.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/benjaminwedeen540//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ### My Favorite Repos
 * <a href="https://github.com/BWedeen/Crypto-Pub">Crypto Pub</a> - Cryptocurrency tracking tool
